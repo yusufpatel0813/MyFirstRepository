@@ -8,7 +8,7 @@ public class Mode10 {
 		int c=a+b;
 		
 		
-		System.out.println(5+"and"+6+"sum is"+5+6);
+		System.out.println(5+"and"+6+"sum is"+11);
 
 	}
 
